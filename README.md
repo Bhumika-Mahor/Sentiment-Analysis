@@ -1,7 +1,8 @@
 # Sentiment-Analysis
 
-Description: Build a sentiment analysis model that determines the sentiment of user inputs ( positive ,negative , neutral ).
-Solution: Train a sentiment analysis classifier using a dataset of labeled text samples with sentiment labels.
+## Description: Build a sentiment analysis model that determines the sentiment of user inputs ( positive ,negative , neutral ).
+
+## Solution: Train a sentiment analysis classifier using a dataset of labeled text samples with sentiment labels.
 
 - Load your labeled dataset.
 - Split the dataset into training and testing sets.
